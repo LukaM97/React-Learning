@@ -1,0 +1,10 @@
+#btnAds{
+    color: white;
+    background-color: crimson;
+    border-radius: 5px;
+    text-align: center;
+    width: 60px;
+    border: 1px solid;
+    border-color: black;
+    font-size: large;
+}

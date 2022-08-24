@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+}
+
+.table{
+  border: 1px solid black;
+  text-align: center;
+  width: 60%;
+  margin: auto;
+}
+.tr,th,td{
+  border: 1px solid black;
+}
+.even{
+  background-color: crimson;
+}
+.noTd{
+  background-color: white;
+}

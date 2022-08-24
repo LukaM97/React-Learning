@@ -1,0 +1,30 @@
+.btnBack{
+    color: white;
+    background-color: #00BFFF;
+    border-radius: 5px;
+    text-align: center;
+    width: 90px;
+    border: 1px solid;
+    border-color: black;
+    font-size: large;
+    margin: 10px;
+}
+.btnAdd{
+    color: white;
+    background-color: crimson;
+    border-radius: 5px;
+    text-align: center;
+    width: 90px;
+    border: 1px solid;
+    border-color: black;
+    font-size: large;
+    margin: 10px;
+}
+label{
+    width:100px;
+    display: inline-block;
+    text-align: left;
+}
+#agency{
+    margin-right: 30px;
+}
